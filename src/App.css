@@ -1,0 +1,24 @@
+/* #root {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+} */
+
+/* .card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  border: 1px solid;
+  margin: 150px;
+}
